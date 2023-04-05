@@ -1,8 +1,0 @@
-{
-    "version": "1.0.0",
-    "description": "Console application for apply format to verilog file.",
-    "homepage": "https://github.com/ericsonj/verilog-format",
-    "url": "https://github.com/ericsonj/verilog-format/raw/master/bin/verilog-format-WIN.zip",
-    "bin": "verilog-format.exe",
-    "hash": "e6eae764003ca860d8b4298d1213c935f210e92a146717b7d6aae879eb467e4a"
-  }
